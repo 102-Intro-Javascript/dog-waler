@@ -23,21 +23,21 @@
 <img src="https://i.pinimg.com/236x/70/bd/e5/70bde558835ff0d2b29154150a2a784c--pittbulls-beautiful-dogs.jpg" height="200">
 <h1>Lucy</h1>
 <p>
-Lucy loves long walks on the beach, tennis balls and belly scratches.
+Lucy loves long walks on the beach, tennis balls and belly scratches. We currently charge $5 per hour <a href="sfdsdfsdf">clcik here to learn more!!!</a>
 </p>
 </article>
 <article>
 <img src="https://images.unsplash.com/photo-1529956650128-bca881be2e60?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjM2NTI5fQ" height="200">
 <h1>Bear</h1>
 <p>
-Bear loves going to the park and interacting with other dogs. He enjoys venison, bacon and cheese for snacks.
+Bear loves going to the park and interacting with other dogs. He enjoys venison, bacon and cheese for snacks. We currently charge $5 per hour <a href="sfdsdfsdf">clcik here to learn more!!!</a>
 </p>
 </article>
 <article>
 <img src="https://www.loveyourdog.com/wp-content/uploads/2019/08/Pitbull-Terrier-Mixes-900x500.jpg" height="200">
 <h1>Goffer</h1>
 <p>
-Goffer really loves swimming but dislikes taking baths. He is cat and bird friendly.
+Goffer really loves swimming but dislikes taking baths. He is cat and bird friendly. We currently charge $5 per hour <a href="sfdsdfsdf">clcik here to learn more!!!</a>
 </p>
 </article>
 </main>
