@@ -1,16 +1,42 @@
-ul {
+header {
+  background-color: grey;
+}
+
+p {
+  background-color: #ffdc73;
+  border-radius: 15px;
+}
+
+article {
+  float: left;
+  width: 33%;
+  margin-left: 5px;
+  overflow: auto;
+}
+
+img {
+  border-width: 5px;
+  border-radius: 10px;
+  border-color: #111  
+  ;
+}
+#header {
     list-style-type: none;
-    margin: 0;
+    margin-bottom: 10;
     padding: 0;
     overflow: hidden;
     background-color: #333;
   }
   
-  li {
-    float: left;
+  .links {
+    float: right;
   }
   
-  li a {
+  #logo {
+    float: left;
+  }
+
+  .top {
     display: block;
     color: white;
     text-align: center;
@@ -18,7 +44,32 @@ ul {
     text-decoration: none;
   }
   
+  .footer {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  .bottom {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+  }
+  
+
   /* Change the link color to #111 (black) on hover */
-  li a:hover {
+  .links a:hover {
     background-color: #111;
+  }
+
+  footer {
+    display: inline-block;
+  }
+
+  footer>ul {
+    float: left;
   }
